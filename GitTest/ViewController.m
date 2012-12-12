@@ -19,6 +19,8 @@
     [super viewDidLoad];
     
     NSLog(@"Hello world");
+    NSLog(@"My name is Roma");
+    NSLog(@"Third string");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
